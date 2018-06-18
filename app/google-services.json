@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "689417796802",
+    "firebase_url": "https://appcooperativa-b585b.firebaseio.com",
+    "project_id": "appcooperativa-b585b",
+    "storage_bucket": "appcooperativa-b585b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689417796802:android:0246ae1ac4a834ce",
+        "android_client_info": {
+          "package_name": "app.tecsup.com.appcooperativa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689417796802-n79vi0skimc5t9phh78869e8g0hmlt5o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "689417796802-n79vi0skimc5t9phh78869e8g0hmlt5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGPhn0-rRFyEDOlC4dBZTAGTIM56Z6-hc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

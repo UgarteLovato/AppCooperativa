@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8BC34A</color>
+    <color name="colorPrimaryDark">#DCEDC8</color>
+    <color name="colorAccent">#4CAF50</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+    <color name="red">#F15050</color>
+    <color name="red_dark">#d43c3c</color>
+    <color name="yellow">#EED45A</color>
+    <color name="yellow_dark">#d4bb46</color>
+    <color name="lime">#BCE24A</color>
+    <color name="lime_dark">#9dbf35</color>
+    <color name="green">#48D26B</color>
+    <color name="green_dark">#36b957</color>
+    <color name="blue">#48DFE1</color>
+    <color name="blue_dark">#37c4c6</color>
+    <color name="darkblue">#5A9CEE</color>
+    <color name="darkblue_dark">#417eca</color>
+    <color name="darkviolet">#7E50F1</color>
+    <color name="darkviolet_dark">#683dd4</color>
+    <color name="violet">#D65AEE</color>
+    <color name="violet_dark">#b33ec9</color>
+    <color name="bazar">#ECCEF5</color>
+    <color name="informacion">#F6E3CE</color>
+    <color name="servicios">#F7F8E0</color>
+</resources>
